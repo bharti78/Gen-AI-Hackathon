@@ -36,23 +36,28 @@ This project is a full-stack healthcare application that leverages artificial in
 ## 🖼️ Application Screenshots
 
 ### Signup Page
-![Signup Page](image/signup-page.png)
+![Signup Page](<img width="1912" height="926" alt="hack1 1" src="https://github.com/user-attachments/assets/0f8637a7-a625-48d2-8d50-df83258a9f33" />
+)
 *User registration interface with form validation*
 
 ### Home Page
-![Home Page](image/home-page.png)
+![Home Page](<img width="1845" height="974" alt="hack2 1" src="https://github.com/user-attachments/assets/ef9fdbd1-a112-4643-a05a-c6a2af5373f4" />
+)
 *Main dashboard with navigation and key features*
 
 ### Chats Page
-![Chats Page](image/chats-page.png)
+![Chats Page](![WhatsApp Image 2025-08-22 at 00 16 27_0673e8b4](https://github.com/user-attachments/assets/6ff5de9f-57f0-4b7b-8890-59af0be15f48)
+)
 *AI medical chat interface and conversation history*
 
 ### Diagnosis Page
-![Diagnosis Page](image/diagnosis-page.png)
+![Diagnosis Page](<img width="1914" height="920" alt="hack3 1" src="https://github.com/user-attachments/assets/a24e8c8c-ee20-4ba7-a940-394fda869989" />
+)
 *Disease prediction and analysis interface*
 
 ### Forms Page
-![Forms Page](image/forms-page.png)
+![Forms Page](<img width="1920" height="935" alt="hack4 1" src="https://github.com/user-attachments/assets/4ec8ff47-0af4-41e8-844f-332f19107524" />
+)
 *Dynamic form generation and data collection*
 
 ## 🛠️ Technology Stack
