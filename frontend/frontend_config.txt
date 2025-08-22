@@ -1,0 +1,9 @@
+# Create a file named .env.local in your frontend directory with this content:
+
+NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
+NEXT_PUBLIC_FRONTEND_URL=http://localhost:3000
+
+# This will fix the API endpoint issue where it's currently calling:
+# http://localhost:3000/account/undefined/api/genaimech/signup
+
+# After adding this file, restart your Next.js development server
